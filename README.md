@@ -1,2 +1,5 @@
 # Sperax-Auditory-Report
-Sperax protocol vulnerabilities analysis and possible solutions
+Audit to Sperax protocol, deep vulnerabilities analysis and possible solutions.
+
+> [!Vulnerability was exploited]
+> 1 year after I authored this DEFI security report, the protocol was hacked, as I had predicted. This event led to a significant loss of $20 billion in market capitalization for the protocol.
