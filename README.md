@@ -1,5 +1,5 @@
 # Sperax-Auditory-Report
-> [!INFO]
+> [!IMPORTANT]
 > Audit to Sperax protocol, deep vulnerabilities analysis and possible solutions.
 
 # Update
