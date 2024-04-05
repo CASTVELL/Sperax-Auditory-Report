@@ -2,7 +2,6 @@
 > [!NOTE]
 > Audit to Sperax protocol, deep vulnerabilities analysis and possible solutions.
 > - In this audit, I identified a critical vulnerability in the protocol design.
-> - I mentioned that if exploited, it would be an economic disaster for the protocol.
 > - Additionally, I provided recommendations on how to fix this vulnerability.
 ---------------------------------------------------------------------------------------
  
