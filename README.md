@@ -9,8 +9,8 @@
 ## Update
 
 > [!CAUTION]
-> - One year after I authored this DEFI security report, the protocol was hacked, as I had predicted.
-> - This event led to a significant loss of USD 40 Billion in market capitalization for the protocol.
+> - One year after I authored this DEFI security report, a similar protocol was hacked.
+> - The event on this similar protocol Terra Luna led to a significant loss of USD 40 Billion in market capitalization for the protocol.
 
 ## Media Links
 
