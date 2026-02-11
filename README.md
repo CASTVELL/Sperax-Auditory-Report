@@ -1,16 +1,16 @@
+## Update
+
+> [!CAUTION]
+> - One year after I authored this DEFI security report, a similar protocol was hacked exploiting the vulnelarities I found here.
+> - The event on this similar protocol Terra Luna led to a significant loss of USD 40 Billion in market capitalization for the protocol.
+---------------------------------------------------------------------------------------
+ 
 # Sperax Protocol Auditory Report
+
 > [!TIP]
 > Audit to Sperax protocol, deep vulnerabilities analysis and possible solutions.
 > - In this audit, I identified a critical vulnerability in the protocol design.
 > - Additionally, I provided recommendations on how to fix this vulnerability.
----------------------------------------------------------------------------------------
- 
-
-## Update
-
-> [!CAUTION]
-> - One year after I authored this DEFI security report, a similar protocol was hacked.
-> - The event on this similar protocol Terra Luna led to a significant loss of USD 40 Billion in market capitalization for the protocol.
 
 ## Media Links
 
